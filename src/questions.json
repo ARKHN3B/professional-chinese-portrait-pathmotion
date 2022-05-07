@@ -1,0 +1,134 @@
+{
+  "a movie": {
+    "backgroundImg": "movie.jpg",
+    "answer": "The Lord of the Rings",
+    "why": "I would be in three parts",
+    "link": ""
+  },
+  "a piece of furniture": {
+    "backgroundImg": "",
+    "answer": "A desk 🖥",
+    "why": "Because that's where I spend most of my time",
+    "link": ""
+  },
+  "a plant": {
+    "backgroundImg": "",
+    "answer": "A cactus 🌵",
+    "why": "I don't like physical contact",
+    "link": ""
+  },
+  "a song": {
+    "backgroundImg": "",
+    "answer": "Sharp Dressed Man 🎸",
+    "why": "By ZZ Top",
+    "link": "https://www.youtube.com/watch?v=9bJP7Qe41Fk"
+  },
+  "another thing than a human": {
+    "backgroundImg": "",
+    "answer": "An elf 🧝‍♂️",
+    "why": "Not a house-elf of course",
+    "link": ""
+  },
+  "a music band": {
+    "backgroundImg": "",
+    "answer": "Rammstein 🤘",
+    "why": "The music, the atmosphere, the visual",
+    "link": ""
+  },
+  "an author/writer": {
+    "backgroundImg": "",
+    "answer": "Tolkien 📖",
+    "why": "For the best mythology ever created",
+    "link": ""
+  },
+  "an animal": {
+    "backgroundImg": "",
+    "answer": "Turritopsis dohrnii 🌊",
+    "why": "For her immortality",
+    "link": "https://www.bbcearth.com/news/the-animal-that-lives-forever"
+  },
+  "a famous landmark": {
+    "backgroundImg": "",
+    "answer": "International Space Station 🛰",
+    "why": "It is an international human monument",
+    "link": ""
+  },
+  "a sport": {
+    "backgroundImg": "",
+    "answer": "Weight training 🦾",
+    "why": "I like to get stronger and stronger",
+    "link": ""
+  },
+  "an insult": {
+    "backgroundImg": "",
+    "answer": "Son of a bitch 🤬",
+    "why": "Cause I say it too often",
+    "link": ""
+  },
+  "a vegetable": {
+    "backgroundImg": "",
+    "answer": "A broccoli 🥦",
+    "why": "The basis of nutrition when doing sports",
+    "link": ""
+  },
+  "a drink": {
+    "backgroundImg": "",
+    "answer": "A Guinness beer 🍺",
+    "why": "\"A mega pint\"",
+    "link": ""
+  },
+  "a city": {
+    "backgroundImg": "",
+    "answer": "Kyoto 🗾",
+    "why": "Between tradition and modernity",
+    "link": ""
+  },
+  "an artist": {
+    "backgroundImg": "",
+    "answer": "Takashi Murakami 💮",
+    "why": "I like his flower pattern",
+    "link": ""
+  },
+  "a part of a body": {
+    "backgroundImg": "",
+    "answer": "A brain 🧠",
+    "why": "Because it is the computer of the human body",
+    "link": ""
+  },
+  "an app": {
+    "backgroundImg": "",
+    "answer": "9GAG",
+    "why": "Click here to know why 👈",
+    "link": "https://youtu.be/dQw4w9WgXcQ?t=0"
+  },
+  "a spice": {
+    "backgroundImg": "",
+    "answer": "Japan curry 🤤",
+    "why": "Tonkatsu kare, Kare raisu...",
+    "link": ""
+  },
+  "a planet": {
+    "backgroundImg": "",
+    "answer": "Jupiter 🪐",
+    "why": "I was born on a Thursday",
+    "link": ""
+  },
+  "a language": {
+    "backgroundImg": "",
+    "answer": "JavaScript 🤓",
+    "why": "I use it every day",
+    "link": ""
+  },
+  "a verb": {
+    "backgroundImg": "",
+    "answer": "Develop 📈",
+    "why": "I like to develop, in all fields",
+    "link": ""
+  },
+  "a villain": {
+    "backgroundImg": "",
+    "answer": "Muzan Kibutsuji 👺",
+    "why": "Cold-hearted, ruthless, intimidating, immortal and exceptionally intelligent",
+    "link": ""
+  }
+}
