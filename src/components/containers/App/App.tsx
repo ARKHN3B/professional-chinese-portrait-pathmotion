@@ -3,7 +3,6 @@ import styled   from "styled-components";
 
 import FlipCard                                    from "components/commons/FlipCard";
 import questions                                   from "../../../questions.json";
-import { ReactComponent as ChinesePortraitBanner } from "assets/img/banner-chinese-portrait.svg";
 import Header                                      from "../Header";
 import Footer                                      from "../Footer";
 
