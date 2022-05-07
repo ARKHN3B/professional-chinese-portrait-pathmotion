@@ -1,28 +1,20 @@
 import React    from 'react';
 import styled   from "styled-components";
 
-import FlipCard from "components/commons/FlipCard";
-import questions from "../../../questions.json";
+import FlipCard                                    from "components/commons/FlipCard";
+import questions                                   from "../../../questions.json";
+import { ReactComponent as ChinesePortraitBanner } from "assets/img/banner-chinese-portrait.svg";
+import Header                                      from "../Header";
+import Footer                                      from "../Footer";
 
 const Container = styled.div`
-  height: 100vh;
-  display: grid;
-  grid-template-rows: auto 1fr;
-`;
-
-const Title = styled.h1`
-  margin: 0;
-  text-align: center;
+  min-height: 100vh;
   padding: 3rem;
-  font-weight: 300;
-  font-size: 2.4rem;
-  text-transform: uppercase;
 `;
 
 const CardWrapper = styled.div`
-  width: 100vw;
   padding-inline: 1rem;
-  padding: 1rem 1rem 3rem 1rem;
+  padding: 3rem 0 3rem 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -33,9 +25,7 @@ const CardWrapper = styled.div`
 function App() {
   return (
     <Container>
-      <Title>
-        If I was 🤔
-      </Title>
+      <Header/>
       <CardWrapper>
         {
           Object.entries(questions).map(([subject, answerDetail]) => {
@@ -50,6 +40,7 @@ function App() {
           })
         }
       </CardWrapper>
+      <Footer/>
     </Container>
   );
 }

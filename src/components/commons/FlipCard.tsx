@@ -32,7 +32,7 @@ const CardContent = styled.div`
 `;
 
 const FrontCardContent = styled(CardContent)`
-  background: #6f4dff;
+  background: #A10000;
   color: white;
   display: grid;
   place-items: center;
